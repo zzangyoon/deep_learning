@@ -5,3 +5,7 @@ MNIST/
 runs/
 cifar-10-batches-py/
 cifar-10-python.tar.gz
+dataset/
+
+bing_image_downloader/
+model/
